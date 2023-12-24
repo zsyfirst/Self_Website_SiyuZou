@@ -1,0 +1,62 @@
+---
+title: "About me"
+author: "Siyu Zou"
+date: 2023-12-24
+format: html
+editor: visual
+---
+
+### Education
+
+Johns Hopkins University \| Baltimore, US <br> 
+Master of Health Science \| Aug 2023 - June 2025 <br>
+
+
+Peking University \| Beijing, China <br> 
+Bachelor of Medicine \| Sept 2017 - June 2022 <br>
+
+
+### Research interest
+
+- Cardiovascular Disease (CVD)  <br> 
+- Risk prediction
+- Clinical Trial  <br>
+- Behavioral intervention to control hypertension and risk of CVD. <br>
+- Prevention of stroke and cognitive decline, which might result from poorly controlled CVD risk factors. <br>
+
+
+### Research Experience
+
+- Johns Hopkins University \| Research Assistant (Part-time) \| Dec 2023 - Present <br> 
+- Tsinghua University \| Research Assistant (Full-time) \| July 2022 - Aug 2023 <br> 
+- Peking University \| Research Assistant (Part-time) \| May 2018 - June 2022 <br> 
+- Duke Kunshan University \| Research Assistant (Part-time) \| Jan 2021 - Dec 2021 <br>
+
+
+### [Select Publications](https://scholar.google.com/citations?user=BqMKl_sAAAAJ)
+
+- **Zou S**, Wang Z, Bhura M, et al. Prevalence and associated socioeconomic factors of multimorbidity in 10 regions of China: an analysis of 0.5 million adults. Journal of Public Health (Oxford). 2022;44(1). doi: [10.1093/pubmed/fdaa204](https://doi.org/10.1093/pubmed/fdaa204)
+- **Zou S**, Wang Z, Bhura M, et al. Association of multimorbidity of non-communicable diseases with mortality: a 10-year prospective study of 0.5 million Chinese adults. Public Health. 2022;205. doi: [10.1016/j.puhe.2022.01.021](https://doi.org/10.1016/j.puhe.2022.01.021)
+- **Zou S**, Wang Z, Tang K. Social inequalities in all-cause mortality among adults with multimorbidity: a 10-year prospective study of 0.5 million Chinese adults. International health. 2023;15(2):123-133. doi:[10.1093/inthealth/ihac052](https://doi.org/10.1093/inthealth/ihac052)
+- Zou X, **Zou S**, Guo Y, et al. Association of smoking status and nicotine dependence with multi-morbidity in China: A nationally representative cross-sectional study. Tobacco induced diseases. 2023;21:81. doi:[10.18332/tid/166110](https://doi.org/10.18332/tid/166110)
+- Yan LL, Li C, **Zou S**, et al. Healthy eating and all-cause mortality among Chinese aged 80 years or older. International Journal of Behavioral Nutrition and Physical Activity. 2022;19(1). doi: [10.1186/s12966-022-01280-6](https://doi.org/10.1186/s12966-022-01280-6)
+- **Zou S**, Qi X, Marshall K, et al. Understanding the context of healthcare utilisation for children under-five with diarrhoea in the DRC: based on Andersen behavioural model. BMC health services research. 2022;22(1). doi: [10.1186/s12913-022-07530-4](https://doi.org/10.1186/s12913-022-07530-4)
+- **Zou S**, Cao W, Jia Y, et al. Sexual and reproductive health and attitudes towards sex of young adults in China. BMJ sexual & reproductive health. 2022;48(e1). doi: [10.1136/bmjsrh-2020-200766](https://doi.org/10.1136/bmjsrh-2020-200766) 
+- Huang S, **Zou S**, Hee J, et al. Pregnancy loss and risk of cardiometabolic multimorbidity in Chinese women: the China Kadoorie Biobank study. 2023. doi: [10.21203/rs.3.rs-3140839/v1](https://doi.org/10.21203/rs.3.rs-3140839/v1)
+- Gao Y, Wang Y, **Zou S**, et al. Association of iron supplementation and deworming with early childhood development: analysis of Demographic and Health Surveys in ten low- and middle-income countries. European journal of nutrition. 2021;60(6). doi: [10.1007/s00394-021-02493-4](https://doi.org/10.1007/s00394-021-02493-4)
+- Gao Y, Zhang L, Kc A, et al. Housing environment and early childhood development in sub-Saharan Africa: A cross-sectional analysis. PLoS Medicine. 2021;18(4). doi: [10.1371/journal.pmed.1003578](https://doi.org/10.1371/journal.pmed.1003578)
+
+
+### Conference Proceedings 
+
+- Time-Varying Healthy Lifestyle Profile and All-Cause Mortality Among the Oldest-Old in China. Circulation. 2023;147. doi:[10.1161/circ.147.suppl_1.p303](https://doi.org/10.1161/circ.147.suppl_1.P303) (Poster Presentation) 
+- Prevalence and associated socioeconomic factors of multimorbidity in ten regions of China: a cross-sectional analysis. The Lancet, 2020;396:S12. doi: [10.1016/S0140-6736(20)32432-6](https://doi.org/10.1016/S0140-6736(20)32432-6) (Poster Presentation) 
+- Global, and regional trends of dengue and its relationship with micronutrient deficiencies from 1990 to 2019: an analysis of the Global Burden of Disease 2019 study. 2nd World Health Forum towards Health Equity, 2022 (Oral Presentation) 
+- “Life changing benefits”: Delivering comprehensive sexuality education in Western China - a qualitative study. The 118th American Sociological Association (ASA) Annual Meeting, 2023 (Roundtables) 
+- Association between Chinese youth's sources of sexual knowledge and sexual intercourse: a mediation analysis. The 118th ASA Annual Meeting, 2023 (Roundtables) 
+
+
+
+
+
+

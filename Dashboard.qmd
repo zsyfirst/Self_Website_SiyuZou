@@ -1,0 +1,36 @@
+---
+title: "Dashboard"
+format: html
+date: 2023-12-17
+description: A dashboard for Survival data from the TV series ‘Alone’
+categories: [R, shiny, flexdashboard]
+---
+
+## Purposes
+
+**This dashboard was created for two purposes: **
+
+1. Do survival analysis based on the data frame of survivalists across all 9 seasons. <br> 
+We would like to explore if males live longer than females? How many loadouts every survivalists has taken?
+
+
+2. To practice building dashboards with **flexdashboard** and **Shiny** for the BSPH course Statistical Programming Paradigms and Workflows
+
+
+## The Link
+
+The dashboard is deployed using [shinyapps.io](https://www.shinyapps.io)    
+Access the the dashboard via this link: [https://siyuzou.shinyapps.io/Example_analysis/](https://siyuzou.shinyapps.io/Example_analysis/)  
+Source code of the dashboard is stored in my [GitHub repo](https://github.com/zsyfirst/Project4)
+
+
+## Data source 
+
+[Data Source for this project](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-24/readme.md)  <br>
+
+This data of the TV series [Alone](https://www.history.com/shows/alone) collected and shared on [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2023) , which is a weekly podcast and global community activity brought to you by the R4DS Online Learning Community.  <br>
+
+Here is a data dictionary for what all the column names mean: [data dictionary](https://github.com/rfordatascience/tidytuesday/tree/master/data/2023/2023-01-24#data-dictionary)
+
+
+

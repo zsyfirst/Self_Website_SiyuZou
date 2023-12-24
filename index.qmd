@@ -1,0 +1,31 @@
+---
+title: "Siyu Zou"
+image: myphoto3.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links: 
+    - text: Github
+      href: https://github.com/zsyfirst
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/siyu-zou-769b43289/
+    - text: Email
+      href: mailto::szou14@jh.edu
+---
+
+This is Siyu Zou's website.
+
+## Self Introduction
+
+Siyu Zou is a first-year master student majoring in Epidemiology at Johns Hopkins University.
+
+
+## Research interest
+
+Siyu is interested in understanding the role of environmental factors in the prevention and control of cardiovascular diseases. <br>
+
+Siyu is a research assisitant in Professor [Kunihiro Matsushita](https://publichealth.jhu.edu/faculty/2473/kunihiro-matsushita)'s team, focus on using Coronary Artery Calcium Score to predict the incidence risk of atherosclerotic cardiovascular diseases (ASCVD). <br>
+
+[To learn more about Siyu Zou's research output, visit her Research Gate](https://www.researchgate.net/profile/Siyu-Zou)
